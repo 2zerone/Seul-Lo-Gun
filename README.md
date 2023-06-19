@@ -1,7 +1,7 @@
 # Seul-Lo-Gun
 Final project for Computer engineering
 
-e-mail : jungun2115@gmail.com
+e-mail : dudgks3316@naver.com
 
 ## Introduction
 > 학교를 다니며 적지않은 4년이라는 시간동안 좋은 추억들이 많이 있습니다.
